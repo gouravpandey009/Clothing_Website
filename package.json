@@ -1,7 +1,7 @@
 {
-  "name": "shop-brand",
+  "name": "Gourav Pandey",
   "version": "1.0.0",
-  "description": "Website developed on the JavaScript course in GeekBrains.",
+  "description": "My Clothing Website.",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
