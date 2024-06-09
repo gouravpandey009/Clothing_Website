@@ -1,12 +1,12 @@
-Vue.component('search', {
-    data() {
-        return {
-            filtered: [],
-            searchLine: '',
-        }
-    },
-    methods: {},
-    template: `<div class="header-form">
+Vue.component("search", {
+  data() {
+    return {
+      filtered: [],
+      searchLine: "",
+    };
+  },
+  methods: {},
+  template: `<div class="header-form">
                     <form action="#" class="header-form__search" @submit.prevent="$root.$refs.catalog.filterName(searchLine)">
                         <div class="browse-button">Browse<i class="fas fa-caret-down triangle-grey"></i>
                             <div class="menu-drop browse-drop">
@@ -38,5 +38,5 @@ Vue.component('search', {
                         <input type="search" class="search" placeholder="Search for Item..." v-model="searchLine">
                         <button type="submit" class="search__button"><i class="fas fa-search"></i></button>
                     </form>
-                </div>`
+                </div>`,
 });

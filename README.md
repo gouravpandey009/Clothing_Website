@@ -1,24 +1,76 @@
-## Clothing Store
-Website developed on the JavaScript course in GeekBrains.
+# Clothing Store 🛍️
 
-![screen-1](https://user-images.githubusercontent.com/48284147/162563990-ab1eb7f5-abc9-489f-98d5-6086b0bf2028.jpg)
+Welcome to the Clothing Store!
 
-Implemented on HTML, CSS (SASS), JavaScript, Vue.js components with global registration, OOP, Fetch Api. \
-Server side - Node.js, Express. Data is stored in JSON. \
-Layout in .psd 
+![Screenshot of Clothing Store](./assets/B1.PNG)
 
-Functionality of adding products to the cart, 
-change product quantity in cart, delete product from cart. 
-Clear cart. 
+## Description ℹ️
 
-Additionally, on vanilla JS: \
-• sorting products by price, by entering price values or using sliders \
-• searching for a product by the string, included in product name \
-• pagination \
-• carousel of customer reviews \
-• sidebar accordion.
+The Clothing Store website is implemented using HTML, CSS (SASS), JavaScript, and Vue.js components with global registration, following Object-Oriented Programming (OOP) principles. The server side is built with Node.js and Express, with data stored in JSON format. The layout was designed in .psd format.
 
+## Features ✨
 
-Run:
-nodemon server/main.js
-http://localhost:3000/
+- **Product Management**:
+
+  - Add products to the cart
+  - Change product quantity in cart
+  - Delete products from cart
+  - Clear cart
+
+- **Additional Functionality**:
+  - Sort products by price
+  - Search for products by name
+  - Pagination for product listings
+  - Carousel of customer reviews
+  - Sidebar accordion
+
+## How to Run 🏃‍♂️
+
+To run the Clothing Store locally, follow these steps:
+
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/gouravpandey009/Clothing_Website
+   ```
+
+2. Navigate to the project directory:
+
+   ```
+   cd Clothing-Store
+   ```
+
+3. Install dependencies:
+
+   ```
+   npm install
+   ```
+
+4. Start the server:
+
+   ```
+   nodemon server/main.js
+   ```
+
+5. Open your web browser and visit http://localhost:3000/
+
+## Technologies Used 🛠️
+
+- HTML, CSS (SASS)
+- JavaScript, Vue.js
+- Node.js, Express
+- Fetch API
+
+## Contribution Guidelines 🤝
+
+If you'd like to contribute to the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/add-new-feature`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/add-new-feature`).
+5. Create a new Pull Request.
+
+## Contact 📧
+
+For any inquiries or suggestions, feel free to contact us at [pandeygourav09@gmail.com](mailto:pandeygourav09@gmail.com)
