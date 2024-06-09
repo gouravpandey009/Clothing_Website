@@ -1,0 +1,17 @@
+[
+    {
+        "time": "July 6th 2021 4:24:08 pm",
+        "product_name": "all",
+        "action": "delete"
+    },
+    {
+        "time": "June 9th 2024 4:02:29 pm",
+        "product_name": "Woman`s Trousers",
+        "action": "add"
+    },
+    {
+        "time": "June 9th 2024 4:41:30 pm",
+        "product_name": "all",
+        "action": "delete"
+    }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "shop-brand",
+  "version": "1.0.0",
+  "description": "Website developed on the JavaScript course in GeekBrains.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "*.json"
+    ]
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "moment": "^2.24.0"
+  },
+  "keywords": []
+}
